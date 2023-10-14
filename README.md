@@ -12,4 +12,4 @@ The code ensures that the input field is cleared after adding a task.
 
 In summary, the code combines HTML for structure, CSS for styling, and JavaScript for interactivity to create a functional to-do list application. Users can add tasks, mark them as completed, and delete them. The interface is user-friendly and aesthetically pleasing, allowing for efficient task management.
 
-** live site url :** https://gangasravani12.github.io/oasis_todolist/
+**live site url :** https://gangasravani12.github.io/oasis_todolist/
